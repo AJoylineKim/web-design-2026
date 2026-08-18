@@ -1,14 +1,9 @@
 h1 { color: purple 
     
-.oswald-<uniquifier> {
+.oswald {
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
 }
-   }
-.ThisIsAClass{ font-family: "JetBrains Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-             }
+
