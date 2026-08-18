@@ -1,6 +1,6 @@
-h1 { color: purple 
+h1 { color: #c1121f; 
     
-.oswald {
+#ThisIsAnId {
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
