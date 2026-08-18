@@ -4,7 +4,7 @@ h1 { color: #c1121f;
 .oswald-<uniquifier> {
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: <40>;
   font-style: normal;
 }
     margin: 0 3px 5px 100px;
