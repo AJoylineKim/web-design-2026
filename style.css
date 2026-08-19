@@ -27,7 +27,7 @@ body {background-color: #fefae0;
    justify-content: center;
 }
 
-#pond{
+.pond{
    display: flex;
    justify-content: center;
 }
