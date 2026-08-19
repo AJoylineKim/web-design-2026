@@ -10,3 +10,7 @@ h1 { color: #219ebc; }
 
 body {background-color: #fefae0;
 }
+
+.container {
+    display: flex;
+}
