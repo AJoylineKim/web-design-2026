@@ -20,3 +20,8 @@ body {background-color: #fefae0;
     gap: 70px;
    justify-content: center;
 }
+
+#pond{
+   display: flex;
+   justify-content: center;
+}
