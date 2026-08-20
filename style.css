@@ -44,3 +44,7 @@ scrollbar-color: var(--tw-scrollbar-thumb) var(--tw-scrollbar-track);
 body{
    background-color: #fefae0
 }
+
+.table-auto{ 
+   table-layout: auto;
+}
