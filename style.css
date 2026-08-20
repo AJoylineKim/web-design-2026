@@ -35,7 +35,11 @@ h2 { color: #005f73;
    --tw-scrollbar-track: var(--color-sky-700); /* oklch(50% 0.134 242.749) */
 scrollbar-color: var(--tw-scrollbar-thumb) var(--tw-scrollbar-track);
 }
-                         
+
+.scrollbar-thumb-sky-100 {
+   --tw-scrollbar-thumb: var(--color-sky-100); /* oklch(95.1% 0.026 236.824) */
+scrollbar-color: var(--tw-scrollbar-thumb) var(--tw-scrollbar-track);
+}
 
 body{
    background-color: #fefae0
