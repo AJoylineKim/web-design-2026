@@ -19,7 +19,7 @@ h2 { color: #005f73;
 }
 
 
-.container {
+#container {
     display: flex;
     gap: 70px;
    justify-content: center;
@@ -30,10 +30,6 @@ h2 { color: #005f73;
    justify-content: center;
 }
 
-#pond{
-   display: flex;
-   justify-content: center;
-}
 
 .scrollbar-track-sky-700 { 
    --tw-scrollbar-track: var(--color-sky-700); /* oklch(50% 0.134 242.749) */
