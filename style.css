@@ -33,3 +33,8 @@ h2 { color: #005f73;
 @theme {
   --color-regal-blue: #0077b6; 
 }
+
+.scrollbar-thumb-teal-300{ --tw-scrollbar-thumb: var(--color-teal-300); /* oklch(85.5% 0.138 181.071) */
+scrollbar-color: var(--tw-scrollbar-thumb) var(--tw-scrollbar-track);
+                         }
+
